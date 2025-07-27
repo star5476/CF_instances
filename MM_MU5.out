@@ -1,0 +1,33 @@
+< Cell 备己>
+================
+Cell[1] = { 1, 7,  }
+Cell[2] = { 5, 6,  }
+Cell[3] = { 2, 3, 4,  }
+
+
+< Family 备己>
+================
+Family[1] = { 2, 3, 4, 6, 7, 9,  }
+Family[2] = { 1, 5, 8, 10,  }
+Family[3] = { 11,  }
+ }
+
+***** < CPP file俊 火涝瞪 LINGO solution 内爹 何盒 > *****
+
+   // Data file --> 5_KusiakChow(1987)_7x11.cfp
+
+   /*
+   int Cell_Solution[][Max_Num_Machines]
+   = { { 1, 7,  }, // Cell [1]
+       { 5, 6,  }, // Cell[2]
+       { 2, 3, 4,  }, // Cell[3]
+   };
+
+   int Family_Solution[][Max_Num_Parts]
+   = { { 2, 3, 4, 6, 7, 9,  }, // Family [1]
+       { 1, 5, 8, 10,  }, // Family[2]
+       { 11,  }, // Family[3]
+   };
+   */
+
+   ///////////////////////////////////////////////////////////////////////////////
